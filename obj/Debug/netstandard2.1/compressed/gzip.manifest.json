@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\1f6PzDFBMMYnaMHSU52BJYqPe1ZHbHVcOY8CPYvewIs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BHYUpmH8Qh6RK27q5hzUySZP96-9fvEnptAzJKIHboU=.hash",
       "Source": "C:\\Users\\Gaaammmler\\source\\repos\\MapViewer\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MapViewer.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MapViewer.dll.gz"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lIUvSIn72XJl56AdMKGN_4mXNj5anmZSYJOKaEExVKE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DPZmmf8tgAaOIdcjzlvfFflDuGbefl2glGFn59pXEuA=.hash",
       "Source": "C:\\Users\\Gaaammmler\\source\\repos\\MapViewer\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MapViewer.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MapViewer.pdb.gz"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\8cy9tL8v36LbhG79VZh6KgfiXBI1MTfwp92qDTIaRWc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vERmSOqSksLiYXQE8mPgBmnb0fa1rCQfJpWYcD2fqdE=.hash",
       "Source": "C:\\Users\\Gaaammmler\\source\\repos\\MapViewer\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

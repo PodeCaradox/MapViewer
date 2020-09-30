@@ -150,7 +150,6 @@ C:\Users\Gaaammmler\source\repos\MapViewer\bin\Debug\netstandard2.1\System.Runti
 C:\Users\Gaaammmler\source\repos\MapViewer\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
 C:\Users\Gaaammmler\source\repos\MapViewer\bin\Debug\netstandard2.1\System.Text.Json.dll
 C:\Users\Gaaammmler\source\repos\MapViewer\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
-C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\MapViewer.csprojAssemblyReference.cache
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\MapViewer.AssemblyInfoInputs.cache
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\MapViewer.AssemblyInfo.cs
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\MapViewer.csproj.CoreCompileInputs.cache
@@ -178,7 +177,7 @@ C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\Razor\_Impor
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\MapViewer.RazorTargetAssemblyInfo.cache
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\MapViewer.csproj.CopyComplete
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\1f6PzDFBMMYnaMHSU52BJYqPe1ZHbHVcOY8CPYvewIs=.hash
+C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\BHYUpmH8Qh6RK27q5hzUySZP96-9fvEnptAzJKIHboU=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,13 @@ C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\_k
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\lIUvSIn72XJl56AdMKGN_4mXNj5anmZSYJOKaEExVKE=.hash
+C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\DPZmmf8tgAaOIdcjzlvfFflDuGbefl2glGFn59pXEuA=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\8cy9tL8v36LbhG79VZh6KgfiXBI1MTfwp92qDTIaRWc=.hash
+C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\integrity\vERmSOqSksLiYXQE8mPgBmnb0fa1rCQfJpWYcD2fqdE=.hash
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\compressed\_framework\_bin\MapViewer.dll.gz
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\Gaaammmler\source\repos\MapViewer\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
