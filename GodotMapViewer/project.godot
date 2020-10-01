@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="MapViewer"
+run/main_scene="res://szenen/viewer.tscn"
 config/icon="res://icon.png"
 
 [rendering]
