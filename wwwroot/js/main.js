@@ -1,0 +1,25 @@
+document.addEventListener('DOMContentLoaded', () => {
+	var datum = new Date(Date.UTC('2020','9','16','11','00','00'));
+  // Unix timestamp (in seconds) to count down to
+  var twoDaysFromNow = datum.getTime()/1000;
+
+  // Set up FlipDown
+  var flipdown = new FlipDown(twoDaysFromNow)
+
+    // Start the countdown
+    .start()
+
+    // Do something when the countdown ends
+    .ifEnded(() => {
+      console.log('The countdown has ended!');
+    });
+	let body = document.body;
+	body.classList.toggle('light-theme');
+	body.querySelector('#flipdown').classList.toggle('flipdown__theme-light');
+
+
+
+  // Show version number
+  var ver = document.getElementById('ver');
+  ver.innerHTML = flipdown.version;
+});
