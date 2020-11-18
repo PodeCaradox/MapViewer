@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-	var datum = new Date(Date.UTC('2020','9','16','11','00','00'));
+	var datum = new Date(Date.UTC('2021','9','16','11','00','00'));
   // Unix timestamp (in seconds) to count down to
   var twoDaysFromNow = datum.getTime()/1000;
 
