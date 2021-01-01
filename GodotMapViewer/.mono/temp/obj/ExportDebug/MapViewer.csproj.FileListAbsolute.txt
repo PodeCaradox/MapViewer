@@ -1,8 +1,0 @@
-C:\Users\Gaaammmler\source\repos\MapViewer\GodotMapViewer\.mono\temp\bin\ExportDebug\MapViewer.dll
-C:\Users\Gaaammmler\source\repos\MapViewer\GodotMapViewer\.mono\temp\bin\ExportDebug\MapViewer.pdb
-C:\Users\Gaaammmler\source\repos\MapViewer\GodotMapViewer\.mono\temp\obj\ExportDebug\MapViewer.csprojAssemblyReference.cache
-C:\Users\Gaaammmler\source\repos\MapViewer\GodotMapViewer\.mono\temp\obj\ExportDebug\MapViewer.AssemblyInfoInputs.cache
-C:\Users\Gaaammmler\source\repos\MapViewer\GodotMapViewer\.mono\temp\obj\ExportDebug\MapViewer.AssemblyInfo.cs
-C:\Users\Gaaammmler\source\repos\MapViewer\GodotMapViewer\.mono\temp\obj\ExportDebug\MapViewer.csproj.CoreCompileInputs.cache
-C:\Users\Gaaammmler\source\repos\MapViewer\GodotMapViewer\.mono\temp\obj\ExportDebug\MapViewer.dll
-C:\Users\Gaaammmler\source\repos\MapViewer\GodotMapViewer\.mono\temp\obj\ExportDebug\MapViewer.pdb
