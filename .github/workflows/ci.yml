@@ -14,8 +14,8 @@ jobs:
           uses: peaceiris/actions-gh-pages@v3.6.1
           with:
             github_token: ${{ secrets.PUBLISH_TOKEN }}
-            publish_branch: MapViewerSource
-            publish_dir: wwwroot
+            publish_branch: gh-pages
+            publish_dir: MapViewerSource
             allow_empty_commit: false
             keep_files: false
             force_orphan: true
