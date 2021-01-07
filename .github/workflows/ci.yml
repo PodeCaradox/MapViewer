@@ -8,14 +8,14 @@ jobs:
         # Checkout the code
         - uses: actions/checkout@v2
 
-        # Publish the website
         - name: GitHub Pages action
+        # Publish the website
           if: ${{ github.ref == 'refs/heads/master' }} # Publish only when the push is on master
           uses: peaceiris/actions-gh-pages@v3.6.1
           with:
             github_token: ${{ secrets.PUBLISH_TOKEN }}
             publish_branch: gh-pages
-            publish_dir: MapViewerSource/dist
+            publish_dir: MapViewerSource
             allow_empty_commit: false
             keep_files: false
             force_orphan: true
