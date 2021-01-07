@@ -15,7 +15,7 @@ jobs:
           with:
             github_token: ${{ secrets.PUBLISH_TOKEN }}
             publish_branch: gh-pages
-            publish_dir: MapViewerSource/dist
+            publish_dir: MapViewerSource
             allow_empty_commit: false
             keep_files: false
             force_orphan: true
